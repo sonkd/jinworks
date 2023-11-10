@@ -37,6 +37,16 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-admin
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
 
 exclude:
   - Gemfile
