@@ -29,6 +29,7 @@
 }
 .intro-image-hide-mobile {
   display: none;
+  border-radius: 20px;
   @include media-breakpoint-up(md) {
     display: block;
   }
