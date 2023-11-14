@@ -13,6 +13,11 @@ logo:
 home: 
   limit_services: 6
 
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+
 collections:
   services:
     output: true
@@ -38,6 +43,9 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-admin
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 jekyll_admin:
   hidden_links:
