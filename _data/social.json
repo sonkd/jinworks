@@ -1,12 +1,12 @@
 [
   {
-    "name": "Github",
+    "name": "Youtube",
     "link": "#",
-    "image": "images/social/github.svg"
+    "image": "images/social/youtube.svg"
   },
   {
-    "name": "Twitter",
+    "name": "Facebook",
     "link": "#",
-    "image": "images/social/twitter.svg"
+    "image": "images/social/facebook.png"
   }
 ]
