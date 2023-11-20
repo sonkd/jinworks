@@ -53,6 +53,21 @@ collections:
             fields:
               - { label: Name, name: name, widget: string }
               - { label: Link, name: url, widget: string }
+  - name: "features"
+    label: "Features"
+    editor:
+      preview: false
+    files:
+      - label: "Features"
+        name: "features"
+        file: "_data/features.json"
+        fields:
+          - label: "Navigation Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: Name, name: title, widget: string }
+              - { label: description, name: description, widget: string }
   - name: "team-members"
     label: "Team members"
     folder: "_team/"
@@ -72,7 +87,7 @@ collections:
     fields:
       - { label: Title, name: title, widget: string }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Order", name: "weight", widget: "number", default: "1", value_type: "int", min: "1" }
+      - { label: "Order", name: "weight", widget: "number", default: 1, value_type: "int", min: 1 }
   - name: "page"
     label: "Pages"
     files:
