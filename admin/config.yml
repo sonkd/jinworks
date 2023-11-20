@@ -69,13 +69,10 @@ collections:
       - label: "Features"
         name: "features"
         file: "_data/features.json"
+        widget: "list"
         fields:
-          - label: "Navigation Items"
-            name: "items"
-            widget: "list"
-            fields:
-              - { label: Name, name: title, widget: string }
-              - { label: description, name: description, widget: string }
+          - { label: Name, name: title, widget: string }
+          - { label: description, name: description, widget: string }
   - name: "team-members"
     label: "Team members"
     folder: "_team/"
