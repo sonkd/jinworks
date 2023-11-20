@@ -48,19 +48,19 @@ collections:
         file: "_data/menus.yml"
         fields:
           - label: "Main"
-              name: "main"
-              widget: "list"
-              fields:
-                - { label: Name, name: name, widget: string }
-                - { label: Link, name: url, widget: string }
-                - { label: "Order", name: "weight", widget: "number", default: 1, value_type: "int", min: 1 }
+            name: "main"
+            widget: "list"
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: url, widget: string }
+              - { label: "Order", name: "weight", widget: "number", default: 1, value_type: "int", min: 1 }
           - label: "Footer"
-              name: "footer"
-              widget: "list"
-              fields:
-                - { label: Name, name: name, widget: string }
-                - { label: Link, name: url, widget: string }
-                - { label: "Order", name: "weight", widget: "number", default: 1, value_type: "int", min: 1 }
+            name: "footer"
+            widget: "list"
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: url, widget: string }
+              - { label: "Order", name: "weight", widget: "number", default: 1, value_type: "int", min: 1 }
   - name: "features"
     label: "Features"
     editor:
