@@ -75,8 +75,8 @@ collections:
             fields:
               - { label: Name, name: name, widget: string }
               - { label: Link, name: url, widget: string }
-  - name: "team"
-    label: "Team"
+  - name: "team-members"
+    label: "Team members"
     folder: "_team/"
     create: true
     widget: "list"
@@ -86,3 +86,57 @@ collections:
       - { label: "Profile Image", name: "image", widget: "image"}
       - { label: "Job title", name: "jobtitle", widget: "string" }
       - { label: "Linkedin", name: "linkedinurl", widget: "string" }
+  - name: "page"
+    label: "Pages"
+    files:
+      - label: "Team introductions"
+        name: "team"
+        file: "team.md"
+        fields:
+          - {
+              label: "Title",
+              name: "title",
+              widget: "hidden",
+              default: "team",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "team",
+            }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "hidden",
+              default: "team",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Services"
+        name: "services"
+        file: "services.md"
+        fields:
+          - {
+              label: "Title",
+              name: "title",
+              widget: "hidden",
+              default: "team",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "team",
+            }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "hidden",
+              default: "team",
+            }
+          - {
+              label: "Illustration",
+              name: "illustration",
+              widget: "image",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
