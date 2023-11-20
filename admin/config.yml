@@ -60,36 +60,6 @@ collections:
               default: "about",
             }
           - { label: "Body", name: "body", widget: "markdown" }
-  - name: "team"
-    label: "Team"
-    files:
-      - label: "Team"
-        name: "team"
-        file: "team.md"
-        fields:
-          - {
-              label: "Title",
-              name: "title",
-              widget: "hidden",
-              default: "team",
-            }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "team",
-            }
-          - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Team members"
-        folder: "_team/"
-        create: true
-        widget: "list"
-        fields:
-          - { label: Title, name: title, widget: string }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Profile Image", name: "image", widget: "image"}
-          - { label: "Job title", name: "jobtitle", widget: "string" }
-          - { label: "Linkedin", name: "linkedinurl", widget: "string" }
   - name: "menus"
     label: "Menus"
     editor:
@@ -105,3 +75,14 @@ collections:
             fields:
               - { label: Name, name: name, widget: string }
               - { label: Link, name: url, widget: string }
+  - name: "team"
+    label: "Team"
+    folder: "_team/"
+    create: true
+    widget: "list"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Profile Image", name: "image", widget: "image"}
+      - { label: "Job title", name: "jobtitle", widget: "string" }
+      - { label: "Linkedin", name: "linkedinurl", widget: "string" }
