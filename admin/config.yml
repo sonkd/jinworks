@@ -38,28 +38,6 @@ collections:
       - { label: "Diplay Name", name: "display_name", widget: "string" }
       - { label: "Position", name: "position", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages"
-    label: "Pages"
-    editor:
-      preview: false
-    files:
-      - label: "About Page"
-        name: "about"
-        file: "about.md"
-        fields:
-          - {
-              label: "Title",
-              name: "title",
-              widget: "hidden",
-              default: "about",
-            }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "about",
-            }
-          - { label: "Body", name: "body", widget: "markdown" }
   - name: "menus"
     label: "Menus"
     editor:
@@ -86,9 +64,80 @@ collections:
       - { label: "Profile Image", name: "image", widget: "image"}
       - { label: "Job title", name: "jobtitle", widget: "string" }
       - { label: "Linkedin", name: "linkedinurl", widget: "string" }
+  - name: "services"
+    label: "Services"
+    folder: "_services/"
+    create: true
+    widget: "list"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Order", name: "order", widget: "number", default: "1", value_type: "int", min: "1" }
   - name: "page"
     label: "Pages"
     files:
+      - label: "Home pages"
+        name: "home"
+        file: "index.md"
+        fields:
+          - {
+              label: "Title",
+              name: "title",
+              widget: "hidden"
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden"
+            }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "hidden"
+            }
+          - {
+              label: "Intro Image",
+              name: "intro-image",
+              widget: "image"
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About Page"
+        name: "about"
+        file: "about.md"
+        fields:
+          - {
+              label: "Title",
+              name: "title",
+              widget: "hidden",
+              default: "about",
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "about",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact"
+        name: "contac"
+        file: "contact.md"
+        fields:
+          - {
+              label: "Title",
+              name: "title",
+              widget: "hidden"
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden"
+            }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "hidden"
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Team introductions"
         name: "team"
         file: "team.md"
@@ -119,24 +168,21 @@ collections:
           - {
               label: "Title",
               name: "title",
-              widget: "hidden",
-              default: "team",
+              widget: "hidden"
             }
           - {
               label: "Layout",
               name: "layout",
-              widget: "hidden",
-              default: "team",
+              widget: "hidden"
             }
           - {
               label: "Description",
               name: "description",
-              widget: "hidden",
-              default: "team",
+              widget: "hidden"
             }
           - {
               label: "Illustration",
               name: "illustration",
-              widget: "image",
+              widget: "image"
             }
           - { label: "Body", name: "body", widget: "markdown" }
