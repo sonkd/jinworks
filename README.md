@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0bb3b5d-add5-4f41-a90e-3f4bd073e41c/deploy-status)](https://app.netlify.com/sites/jinworks/deploys)
+
+---
+
 # Jekyll Serif Theme
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
