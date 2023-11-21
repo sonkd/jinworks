@@ -62,18 +62,6 @@ collections:
               - { label: Name, name: name, widget: string }
               - { label: Link, name: url, widget: string }
               - { label: "Order", name: "weight", widget: "number", default: 1, value_type: "int", min: 1 }
-  - name: "features"
-    label: "Features"
-    editor:
-      preview: false
-    files:
-      - label: "Features"
-        name: "features"
-        file: "_data/features.json"
-        widget: "list"
-        fields:
-          - { label: Name, name: title, widget: string }
-          - { label: description, name: description, widget: string }
   - name: "team-members"
     label: "Team members"
     folder: "_team/"
@@ -99,31 +87,50 @@ collections:
   - name: "page"
     label: "Pages"
     files:
-      - label: "Home pages"
+      - label: "Home page"
         name: "home"
-        file: "index.md"
+        widget: "list"
         fields:
-          - {
-              label: "Title",
-              name: "title",
-              widget: "hidden"
-            }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden"
-            }
-          - {
-              label: "Description",
-              name: "description",
-              widget: "hidden"
-            }
-          - {
-              label: "Intro Image",
-              name: "intro-image",
-              widget: "image"
-            }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - label: "header"
+            name: "Header"
+            file: "index.md"
+            fields:
+              - {
+                label: "Title",
+                name: "title",
+                widget: "hidden"
+                }
+              - {
+                label: "Layout",
+                name: "layout",
+                widget: "hidden"
+                }
+              - {
+                label: "Description",
+                name: "description",
+                widget: "hidden"
+                }
+              - {
+                label: "Intro Image",
+                name: "intro-image",
+                widget: "image"
+                }
+              - { label: "Body", name: "body", widget: "markdown" }
+          - name: "features"
+            label: "Features"
+            editor:
+              preview: false
+            files:
+              - label: "Features"
+                name: "features"
+                file: "_data/features.json"
+                fields:
+                  - label: "Feature"
+                    name: "feature"
+                    widget: "list"
+                    fields:
+                      - { label: Name, name: title, widget: string }
+                      - { label: description, name: description, widget: string }
       - label: "About Page"
         name: "about"
         file: "about.md"
@@ -142,7 +149,7 @@ collections:
             }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"
-        name: "contac"
+        name: "contact"
         file: "contact.md"
         fields:
           - {
