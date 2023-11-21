@@ -89,48 +89,41 @@ collections:
     files:
       - label: "Home page"
         name: "home"
-        widget: "list"
+        file: "index.md"
         fields:
-          - label: "header"
-            name: "Header"
-            file: "index.md"
+          - {
+            label: "Title",
+            name: "title",
+            widget: "hidden"
+            }
+          - {
+            label: "Layout",
+            name: "layout",
+            widget: "hidden"
+            }
+          - {
+            label: "Description",
+            name: "description",
+            widget: "hidden"
+            }
+          - {
+            label: "Intro Image",
+            name: "intro-image",
+            widget: "image"
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "features"
+        label: "Features"
+        editor:
+          preview: false
+        file: "_data/features.json"
+        fields:
+          - label: "Feature"
+            name: "feature"
+            widget: "list"
             fields:
-              - {
-                label: "Title",
-                name: "title",
-                widget: "hidden"
-                }
-              - {
-                label: "Layout",
-                name: "layout",
-                widget: "hidden"
-                }
-              - {
-                label: "Description",
-                name: "description",
-                widget: "hidden"
-                }
-              - {
-                label: "Intro Image",
-                name: "intro-image",
-                widget: "image"
-                }
-              - { label: "Body", name: "body", widget: "markdown" }
-          - name: "features"
-            label: "Features"
-            editor:
-              preview: false
-            files:
-              - label: "Features"
-                name: "features"
-                file: "_data/features.json"
-                fields:
-                  - label: "Feature"
-                    name: "feature"
-                    widget: "list"
-                    fields:
-                      - { label: Name, name: title, widget: string }
-                      - { label: description, name: description, widget: string }
+              - { label: Name, name: title, widget: string }
+              - { label: description, name: description, widget: string }
       - label: "About Page"
         name: "about"
         file: "about.md"
