@@ -10,34 +10,20 @@ Jinworks có tên đầy đủ là công ty TNHH dịch vụ và hợp tác qu�
 
 Công ty cũng có văn phòng đại diện tại Nhật Bản nhằm xúc tiến thương mại, đại diện pháp lý; đồng thời bảo vệ quyền lợi và lợi ích hợp pháp của người lao động tại các thị trường mà doanh nghiệp đưa đi. Ngoài ra, Jinwork cũng luôn tận tâm tư vấn và hỗ trợ các bạn xuyên suốt hành trình du học từ chọn trường, luyện phỏng vấn, tìm việc làm thêm đến khi các bạn về nước.
 
+
+
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-## `Tầm nhìn`
+## Tầm nhìn
 
-– Trở thành doanh nghiệp hàng đầu trong lĩnh vực tư vấn du học và phái cử nhân nhân sự; đồng thời cung ứng giải pháp phát triển nhân sự toàn diện, và có chiều sâu. 
+* Trở thành doanh nghiệp hàng đầu trong lĩnh vực tư vấn du học và phái cử nhân nhân sự; đồng thời cung ứng giải pháp phát triển nhân sự toàn diện, và có chiều sâu. 
+* Trở thành đối tác tin cậy của khách hàng trong nước và quốc tế.
+* Tận tâm và không ngừng nỗ lực trong việc đồng hành cùng học viên và phụ huynh Việt Nam trong hành trình nâng tầm vị thế trên thị trường nhân sự quốc tế. 
 
-– Trở thành đối tác tin cậy của khách hàng trong nước và quốc tế.
+## Sứ mệnh
 
-– Tận tâm và không ngừng nỗ lực trong việc đồng hành cùng học viên và phụ huynh Việt Nam trong hành trình nâng tầm vị thế trên thị trường nhân sự quốc tế. 
+Duy trì các chuẩn mực đạo đức nghề nghiệp và các giá trị đã cam kết với khách hàng và đối tác của Jinworks.
 
+Cập nhật xu hướng giáo dục mới nhất và nhu cầu nhân sự toàn cầu.
 
-
-
-
-
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
+Cung cấp cho khách hàng giải pháp phát triển toàn diện từ khâu đào tạo; tư vấn chọn trường, chọn ngành, chọn quốc gia du học phù hợp với khả năng và mong muốn của học viên; đến khâu định hướng, kết nối cơ hội việc làm.
