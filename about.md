@@ -8,21 +8,7 @@ bodyClass: page-about
 
 Jinwork có tên đầy đủ là công ty TNHH dịch vụ và hợp tác quốc tế JinWork. Với nhiều năm kinh nghiệm được đúc kết trong lĩnh vực đào tạo, du học, và phái cử nhân nhân sự; chúng tôi tự tin đồng hành cùng các sinh viên và phụ huynh Việt Nam trên con đường chinh phục các vùng đất mới. Đặc biệt, chúng tôi tập trung đẩy mạnh 03 khía cạnh chính, bao gồm: tư vấn du học, đào tạo ngôn ngữ và giới thiệu nhân sự chất lượng cao. 
 
-Công ty cũng mở văn phòng đại diện tại Nhật Bản nhằm xúc tiến thương mại, phát triển thị trường ngoài nước, cử cán bộ đại diện pháp lý, bảo vệ quyền lợi, lợi ích hợp pháp của người lao động tại các thị trường do doanh nghiệp đưa đi. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Jellyfish Việt Nam hiện là đối tác của hơn 400 trường tại Nhật cùng nhiều chương trình học bổng giá trị, vì vậy có thể giúp du học sinh chọn được trường và học bổng phù hợp nhất. Bên cạnh đó cũng sẽ hỗ trợ các bạn trong suốt hành trình du học của mình, từ chọn trường, luyện phỏng vấn, tìm việc làm thêm đến khi các bạn về nước.
+Công ty cũng có văn phòng đại diện tại Nhật Bản nhằm xúc tiến thương mại, đại diện pháp lý; đồng thời bảo vệ quyền lợi và lợi ích hợp pháp của người lao động tại các thị trường mà doanh nghiệp đưa đi. Ngoài ra, Jinwork cũng luôn tận tâm tư vấn và hỗ trợ các bạn trong suốt hành trình du học của mình, từ chọn trường, luyện phỏng vấn, tìm việc làm thêm đến khi các bạn về nước.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
