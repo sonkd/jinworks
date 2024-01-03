@@ -22,8 +22,6 @@ Công ty cũng có văn phòng đại diện tại Nhật Bản nhằm xúc ti�
 
 ## Sứ mệnh
 
-Duy trì các chuẩn mực đạo đức nghề nghiệp và các giá trị đã cam kết với khách hàng và đối tác của JinWorks.
-
-Cập nhật xu hướng giáo dục mới nhất và nhu cầu nhân sự toàn cầu.
-
-Cung cấp cho khách hàng giải pháp phát triển toàn diện từ khâu đào tạo; tư vấn chọn trường, chọn ngành, chọn quốc gia du học phù hợp với khả năng và mong muốn của học viên; đến khâu định hướng, kết nối cơ hội việc làm.
+* Duy trì các chuẩn mực đạo đức nghề nghiệp và các giá trị đã cam kết với khách hàng và đối tác của JinWorks.
+* Cập nhật xu hướng giáo dục mới nhất và nhu cầu nhân sự toàn cầu.
+* Cung cấp cho khách hàng giải pháp phát triển toàn diện từ khâu đào tạo; tư vấn chọn trường, chọn ngành, chọn quốc gia du học phù hợp với khả năng và mong muốn của học viên; đến khâu định hướng, kết nối cơ hội việc làm.
