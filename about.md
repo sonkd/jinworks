@@ -4,14 +4,29 @@ layout: page
 description: About
 bodyClass: page-about
 ---
+ĐÔI NÉT VỀ JINWORK: 
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Jinwork có tên đầy đủ là công ty TNHH dịch vụ và hợp tác quốc tế JinWork. Với nhiều năm kinh nghiệm được đúc kết trong lĩnh vực đào tạo, du học, và phái cử nhân nhân sự; chúng tôi tự tin đồng hành cùng các sinh viên và phụ huynh Việt Nam trên con đường chinh phục các vùng đất mới. Đặc biệt, chúng tôi tập trung đẩy mạnh 03 khía cạnh chính, bao gồm: tư vấn du học, đào tạo ngôn ngữ và giới thiệu nhân sự chất lượng cao. 
+
+Công ty cũng mở văn phòng đại diện tại Nhật Bản nhằm xúc tiến thương mại, phát triển thị trường ngoài nước, cử cán bộ đại diện pháp lý, bảo vệ quyền lợi, lợi ích hợp pháp của người lao động tại các thị trường do doanh nghiệp đưa đi. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jellyfish Việt Nam hiện là đối tác của hơn 400 trường tại Nhật cùng nhiều chương trình học bổng giá trị, vì vậy có thể giúp du học sinh chọn được trường và học bổng phù hợp nhất. Bên cạnh đó cũng sẽ hỗ trợ các bạn trong suốt hành trình du học của mình, từ chọn trường, luyện phỏng vấn, tìm việc làm thêm đến khi các bạn về nước.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+# Mục tiêu:
 
 Financial accounting and financial reporting are often used as synonyms.
 
@@ -46,7 +61,7 @@ Comparability is the uniform application of accounting methods across entities i
 Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
 Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
 
----
+- - -
 
 ## Statement of cash flows
 
@@ -54,15 +69,15 @@ The statement of cash flows considers the inputs and outputs in concrete cash wi
 
 | Cash Inflow | Outflow   | Opening Balance |
 | ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
+| *Monday*    | `Tuesday` | **Wednesday**   |
 | 1           | 2         | 3               |
 
 **Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+* Cash inflow: $20
+* Cash outflow:$7
+* Opening balance: $5
+* Closing balance: $20 – $7 + $5 = $18
 
 **Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
 
@@ -72,16 +87,19 @@ The statement of cash flows considers the inputs and outputs in concrete cash wi
 
 The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+* **fixed assets**
+
+  * property
+  * building
+  * equipment (such as factory machinery)
+* **intangible assets**
+
+  * copyrights
+  * trademarks
+  * patents
+
+    * pending
+    * international
+* goodwill
 
 Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
