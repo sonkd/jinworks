@@ -1,7 +1,7 @@
 ---
-title: "Business Advisory"
-date: 2018-12-28T15:14:39+10:00
-weight: 4
+title: "Cung ứng nguồn lao động chất lượng cao "
+date: 2024-01-04T04:12:27.929Z
+weight: 2
 ---
 
 Business advisory is the final tier of the accounting pyramid. Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
