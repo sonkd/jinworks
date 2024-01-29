@@ -3,14 +3,13 @@ title: Contact
 layout: contact
 description: Contact
 ---
-
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+|        | Giờ mở cửa   |
+| ------ | ------------ |
+| Thứ 2  | 9:00 - 17:00 |
+| Thứ 3  | 9:00 - 17:00 |
+| Thứ 4  | 9:00 - 17:00 |
+| Thứ 5  | 9:00 - 17:00 |
+| Thứ 6  | 9:00 - 17:00 |
+| Thứ 7  | 9:00 - 12:00 |
