@@ -10,7 +10,7 @@ JinWorks có tên đầy đủ là công ty TNHH dịch vụ và hợp tác qu�
 
 Công ty cũng có văn phòng đại diện tại Nhật Bản nhằm xúc tiến thương mại, đại diện pháp lý; đồng thời bảo vệ quyền lợi và lợi ích hợp pháp của người lao động tại các thị trường mà doanh nghiệp đưa đi. Ngoài ra, JinWork cũng luôn tận tâm tư vấn và hỗ trợ các bạn xuyên suốt hành trình du học từ chọn trường, luyện phỏng vấn, tìm việc làm thêm đến khi các bạn về nước.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![](/assets/uploads/z5116715235056_8ad08a94cfa0cb147a1f4be50db46e6b.jpg)
 
 # Tầm nhìn
 
